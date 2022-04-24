@@ -1,0 +1,14 @@
+{
+    "name": "com.chocopoi.vrc.rip",
+    "displayName": "RestInPhysbones",
+    "version": "1.0.0",
+    "description": "Rest In Physbones (RIP) is a tool that helps tweaking and converting DynamicBones into VRChat's PhysBones system.",
+    "unity": "2019.4",
+    "author": {
+        "name": "chocopoi",
+        "email": "poi@chocopoi.com",
+        "url": "https://github.com/poi-vrc"
+    },
+    "documentationUrl": "https://github.com/poi-vrc/RestInPhysbones",
+    "licensesUrl": "https://www.gnu.org/licenses/gpl-3.0.html"
+}
